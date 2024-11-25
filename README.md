@@ -4,9 +4,9 @@ This project makes use of the YOLO 11 m model along with the the SGD optimiser a
 
 # Team
 
-Lukas Anthonissen
-Robert Officer
-Daniël van Zyl
+- Lukas Anthonissen (University of Pretoria)
+- Robert Officer (University of Pretoria)
+- Daniël van Zyl (University of Pretoria)
 
 Final Zindi placement: 94
 Final public score: 0.8153
