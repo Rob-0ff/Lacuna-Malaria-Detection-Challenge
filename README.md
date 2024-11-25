@@ -11,5 +11,5 @@ Team members:
 - Robert Officer (University of Pretoria)
 - Daniël van Zyl (University of Pretoria)
 
-Final Zindi placement: 94
+Final Zindi placement: 94 \
 Final public score: 0.8153
